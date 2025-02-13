@@ -1,4 +1,4 @@
-### Ola me chamo Jose Kaik!
+### Ola me chamo Jose Kaik estudante de ciencia da computação!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-kaik-lima-ferreira-941a84209/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
